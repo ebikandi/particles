@@ -1,0 +1,14 @@
+{
+  "name": "particles",
+  "version": "1.0.0",
+  "description": "poc based on https://peeke.nl/simulating-blobs-of-fluid",
+  "main": "particles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eneko bikandi",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.13.0"
+  }
+}
