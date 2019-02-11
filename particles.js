@@ -17,7 +17,7 @@ const state = {
 // Pass 1
 
 for (let i = 0; i < PARTICLE_COUNT; i++) {
-
+        
     // Update old position
     state.oldX[i] = state.x[i];
     state.oldY[i] = state.y[i];
