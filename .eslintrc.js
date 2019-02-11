@@ -12,9 +12,8 @@ module.exports = {
         },
       },
       plugins: ['prettier'],
-      extends: [/*'airbnb-base', */ 'prettier', 'eslint:recommended'],
+      extends: ['airbnb-base', 'prettier', 'eslint:recommended'],
       rules: {
-        'no-undef': 'error',
         'linebreak-style': 'off',
         'no-console': 'off',
         'no-plusplus': 'off',
